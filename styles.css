@@ -1,0 +1,70 @@
+body {
+    background-color: #445566;
+}
+
+.firstp {
+	color: red;
+}
+
+.list, li {
+	color: blue;
+}
+
+.about {
+	background-color: #888;
+	padding: 2%;
+	text-align: center;
+	margin: 5%;
+}
+
+.name { 
+    width: 200px;
+}
+h2 {
+    padding: 15px; 
+    text-align: left;
+}
+
+h5 {
+    color: #000000;
+}
+
+.responsive {
+    width: 30%;
+    height: auto;
+}
+
+#exampleInputMessage {
+    height: 80px;
+    text-align: center;
+}
+
+#exampleInputEmail {
+    height: 50px;
+    text-align: center;
+}
+
+
+#exampleInputLastName {
+    height: 50px;
+    text-align: center;
+}
+
+
+#exampleInputFirstName {
+    height: 50px;
+    text-align: center;
+}
+
+#rock, #info{
+    float: right;
+}
+
+footer {
+    padding-top: 60px; 
+    text-align: center;
+    background: #888;
+    height: 90px;
+    margin: auto; 
+
+}
