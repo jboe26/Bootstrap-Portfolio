@@ -2,6 +2,16 @@ body {
     background-color: #445566;
 }
 
+.image1 {
+    float: left;
+    max-width: 100%;
+}
+
+.image2 { 
+    float: right;
+    max-width: 100%;
+}
+
 .firstp {
 	color: red;
 }
@@ -61,10 +71,10 @@ h5 {
 }
 
 footer {
-    padding-top: 60px; 
+    padding-top: 30px; 
     text-align: center;
     background: #888;
     height: 90px;
-    margin: auto; 
+    
 
 }
