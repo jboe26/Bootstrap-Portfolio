@@ -1,14 +1,9 @@
 body {
     background-color: #445566;
+    color: #000;
 }
 
-.image1 {
-    float: left;
-    max-width: 100%;
-}
-
-.image2 { 
-    float: right;
+ image {
     max-width: 100%;
 }
 
@@ -21,27 +16,24 @@ body {
 }
 
 .about {
-	background-color: #888;
+	background-color: #777;
 	padding: 2%;
 	text-align: center;
-	margin: 5%;
+    margin: 5%;
+    max-width: 100%;
+    align-content: center;
 }
-
 .name { 
     width: 200px;
 }
 h2 {
     padding: 15px; 
     text-align: left;
+    max-width: 100%;
 }
 
 h5 {
     color: #000000;
-}
-
-.responsive {
-    width: 30%;
-    height: auto;
 }
 
 #exampleInputMessage {
@@ -71,10 +63,8 @@ h5 {
 }
 
 footer {
-    padding-top: 30px; 
+    padding-top: 20px; 
     text-align: center;
-    background: #888;
-    height: 90px;
-    
-
+    background: #777;
+    height: 70px;
 }
