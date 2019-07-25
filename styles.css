@@ -5,7 +5,8 @@ body {
 
  image {
     max-width: 100%;
-    margin: 100px; 
+    margin: 50px;
+    
 }
 
 .firstp {
@@ -24,8 +25,13 @@ body {
     max-width: 100%;
     align-content: center;
 }
+
+.under_image {
+        line-height: 30px;
+}
 .name { 
     width: 200px;
+    margin: 60px;
 }
 h2 {
     padding: 15px; 
