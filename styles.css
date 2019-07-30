@@ -9,6 +9,14 @@ body {
     
 }
 
+.container {
+    margin: 70px;
+    margin-top: 30px;
+    margin-right: 50px;
+    padding: 20px;
+    background-color: #fff;
+    position: static;
+}
 .firstp {
 	color: red;
 }
