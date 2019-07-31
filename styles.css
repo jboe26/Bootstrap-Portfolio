@@ -16,7 +16,7 @@ body {
     padding: 20px;
     background-color: #fff;
     position: static;
-}
+} 
 .firstp {
 	color: red;
 }
@@ -30,7 +30,7 @@ body {
 	padding: 2%;
 	text-align: center;
   margin: 80px;
-  max-width: 100%;
+  
   text-align: center;
 }
 
@@ -163,6 +163,16 @@ h5 {
     margin-left: 20px;
   }
 
+  .card-body {
+    width: 980px;
+    margin
+  }
+
+  .card-img-top {
+    float:left;
+    height: 300px;
+    width: 350px;
+  }
   
 footer {
     padding-top: 20px; 
