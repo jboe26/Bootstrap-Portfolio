@@ -29,9 +29,9 @@ body {
 	background-color: #fff;
 	padding: 2%;
 	text-align: center;
-    margin: 5%;
-    max-width: 100%;
-    align-content: center;
+  margin: 80px;
+  max-width: 100%;
+  text-align: center;
 }
 
 .under_image {
@@ -53,7 +53,7 @@ h5 {
 
 .mybio { 
     margin: 50px; }
-}
+
 
 #exampleInputMessage {
     height: 80px;
@@ -120,14 +120,14 @@ h5 {
     margin-top: 10px;
     margin-right: 25px;
   }
-  
-  #contact-form ul {
-    margin-bottom: 20px;
+
+  #portfolio { 
+    margin: auto;
+    background-color: #fff;
+    text-align: center;
+    height: 80px;
   }
   
-  #contact-form li {
-    margin-bottom: 10px;
-  }
   
   label,
   input[type=text],
@@ -135,6 +135,8 @@ h5 {
   textarea {
     display: block;
     width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   
   input[type=text],
@@ -144,6 +146,7 @@ h5 {
     padding: 0 10px;
     font-size: 14px;
     border: 1px solid #dddddd;
+    margin-left: 20px;
   }
   
   textarea {
@@ -157,6 +160,7 @@ h5 {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+    margin-left: 20px;
   }
 
   
